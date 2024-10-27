@@ -1,5 +1,5 @@
 # Made-With-Love
-Team Members: Ananya Shetty, Kamya Rajesh, Saloni Agshiker, Leela Rajsankar
+Team Members: Ananya Shetty, Kamya Rajesh, Saloni Agshiker, Leela Raj-Sankar
 
 As college students who are navigating life away from home, we often find ourselves longing for the comfort of home-cooked meals that resonate with our cultural roots. We want to try our own hand at cooking and recreate the recipes that we grew up with, but we don’t always know what to make. That’s why we created Made with Love - an app that makes finding home-inspired meals as simple as snapping a photo. We hope to inspire our peers to try their own hand at cooking and embrace their cultural heritage. 
 
