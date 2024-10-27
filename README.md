@@ -1,7 +1,5 @@
 # Made-With-Love 🪷
 
-***
-
 ## 🤝 Contributers
 
 Ananya Shetty, Kamya Rajesh, Saloni Agshiker, Leela Raj-Sankar
